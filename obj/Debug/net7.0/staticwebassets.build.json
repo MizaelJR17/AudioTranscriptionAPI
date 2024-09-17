@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vrz9ZHywaekhJR3BCiKHSrqvuacUfekl27mo7AjrQBs=",
+  "Source": "AudioTranscriptionAPI",
+  "BasePath": "_content/AudioTranscriptionAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

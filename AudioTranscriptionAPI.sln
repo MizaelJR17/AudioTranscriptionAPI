@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AudioTranscriptionAPI", "AudioTranscriptionAPI.csproj", "{FA6E27A9-4FD9-429F-8843-660D84849BCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA6E27A9-4FD9-429F-8843-660D84849BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA6E27A9-4FD9-429F-8843-660D84849BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA6E27A9-4FD9-429F-8843-660D84849BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA6E27A9-4FD9-429F-8843-660D84849BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3F754A7-55AB-4981-82F5-EC06DC1F9DC6}
+	EndGlobalSection
+EndGlobal
